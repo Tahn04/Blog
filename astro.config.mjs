@@ -3,6 +3,8 @@
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
+import { remarkObsidianImageSize } from "./remark-obsidian-image-size.mjs";
+// import remarkObsidian from "remark-obsidian-md";
 
 // https://astro.build/config
 export default defineConfig({
@@ -32,4 +34,7 @@ export default defineConfig({
 			},
 		},
 	],
+	markdown: {
+		remarkPlugins: [remarkObsidianImageSize],
+	},
 });
