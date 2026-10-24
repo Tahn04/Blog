@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "21e491d9e44c0053",
+        "id": "da06c1f4250b5338",
         "type": "tabs",
         "children": [
           {
-            "id": "49f7e8bdf7c4cba1",
+            "id": "185c3443cc304223",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "blog/Sydney.md",
-                "mode": "source",
-                "source": false
+                "file": "images/homepic.webp"
               },
-              "icon": "lucide-file",
-              "title": "Sydney"
+              "icon": "lucide-image",
+              "title": "homepic"
             }
           }
         ]
@@ -189,21 +187,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49f7e8bdf7c4cba1",
+  "active": "185c3443cc304223",
   "lastOpenFiles": [
+    "blog/Sydney.md",
+    "images/homeImage2.jpg",
+    "images/homepic.webp",
+    "images/Taiwan-1792832721157.webp",
     "images/Sydney-1792835794649.webp",
     "images/Sydney-1792835755624.webp",
     "images/Sydney-1792835669587.webp",
     "images/Sydney-1792835628464.webp",
     "images/Sydney-1792835545286.webp",
-    "blog/Sydney.md",
     "images/Sydney-1792835528756.webp",
     "images/Sydney-1792835359434.webp",
-    "images/Sydney-1792835389020.webp",
     "blog/Trips_from_Cho_Lae.md",
-    "images/Trips_from_Cho_Lae-1792835170526.webp",
-    "images/Trips_from_Cho_Lae-1792835135289.webp",
-    "images/Trips_from_Cho_Lae-1792835084789.webp",
     "blog/Thailand_Pt_2_Cho_Lae_and_Chiang_Mai.md",
     "blog/Thailand_Pt_1_Yaso.md",
     "Untitled",
