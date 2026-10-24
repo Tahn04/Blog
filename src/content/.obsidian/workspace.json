@@ -11,12 +11,14 @@
             "id": "185c3443cc304223",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/homepic.webp"
+                "file": "blog/Sydney.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "homepic"
+              "icon": "lucide-file",
+              "title": "Sydney"
             }
           }
         ]
@@ -189,9 +191,9 @@
   },
   "active": "185c3443cc304223",
   "lastOpenFiles": [
+    "images/homepic.webp",
     "blog/Sydney.md",
     "images/homeImage2.jpg",
-    "images/homepic.webp",
     "images/Taiwan-1792832721157.webp",
     "images/Sydney-1792835794649.webp",
     "images/Sydney-1792835755624.webp",
