@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/test-post.md",
+                "file": "blog/Sydney.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-post"
+              "title": "Sydney"
             }
           }
         ]
@@ -191,22 +191,34 @@
   },
   "active": "49f7e8bdf7c4cba1",
   "lastOpenFiles": [
-    "images/test-post-1789976826996.webp",
-    "images/test-post-1789973718669.webp",
-    "images/test-post-1789894992033.webp",
-    "images/test-post-1789894794982.webp",
-    "images/test-post-1789894660330.webp",
-    "images/test-post-1789894523974.webp",
-    "images/test-post-1789894435024.webp",
-    "images/test-post-1789894413642.webp",
-    "images/test-post-1789894078167.webp",
+    "images/Sydney-1792835794649.webp",
+    "images/Sydney-1792835755624.webp",
+    "images/Sydney-1792835669587.webp",
+    "images/Sydney-1792835628464.webp",
+    "images/Sydney-1792835545286.webp",
+    "blog/Sydney.md",
+    "images/Sydney-1792835528756.webp",
+    "images/Sydney-1792835359434.webp",
+    "images/Sydney-1792835389020.webp",
+    "blog/Trips_from_Cho_Lae.md",
+    "images/Trips_from_Cho_Lae-1792835170526.webp",
+    "images/Trips_from_Cho_Lae-1792835135289.webp",
+    "images/Trips_from_Cho_Lae-1792835084789.webp",
+    "blog/Thailand_Pt_2_Cho_Lae_and_Chiang_Mai.md",
+    "blog/Thailand_Pt_1_Yaso.md",
+    "Untitled",
+    "blog/Taiwan.md",
+    "ref/markdown-style-guide.md",
+    "ref/using-mdx.mdx",
+    "ref/second-post.md",
+    "ref/third-post.md",
+    "ref/first-post.md",
+    "blog/using-mdx.mdx",
+    "ref/test-post.md",
+    "ref",
+    "References",
     "templates/TMP-Blog.md",
-    "blog/Untitled.md",
-    "images/Untitled-1789893992361.webp",
-    "blog/third-post.md",
     "Untitled.md",
-    "templates",
-    "blog/test-post.md",
-    "images/IMG_3919.jpg"
+    "templates"
   ]
 }
